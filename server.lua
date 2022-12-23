@@ -28,7 +28,7 @@ AddEventHandler('playerConnecting', function(name, setKickReason, deferrals)
                 ["actions"] = {
                     {
                         ["type"] = "Action.Submit",
-                        ["title"] = "Submit",
+                        ["title"] = "Elküldés",
                         ["style"] = "positive",
                         ["id"] = "submit"
                     }
